@@ -1,0 +1,54 @@
+-ENGLISH 
+
+I intend to present a graphical database related to companies in the transportation and logistics sector, responsible for deliveries to customer suppliers of various products, such as Walmart, Magazine Luiza, Americanas, among others, and understand how everything is flowing.
+
+Here, we have important conclusions to clarify. All this data reveals serious delivery-related difficulties, a problem that has persisted for a considerable time and requires immediate measures.
+
+Now that the data is organized, it is possible not only to avoid dissatisfaction from both customers and suppliers but also to reduce financial losses and retain customers permanently.
+
+In this dashboard example, I also perform a detailed exploration of the total revenue of products with delivery issues, using filters for customers, periods, locations, etc.
+
+In practice, we can add even more information and delve deeper into data analysis.
+
+I hope you enjoy the content."
+-------------------------------------
+
+- PORTUGUÊS
+
+eu pretendo apresentar uma base gráfica de dados em relação a empresas do setor de transporte e logística sendo responsáveis pelas entregas de clientes fornecedores de diversos produtos, como Walmart, Magazine Luiza, Americanas, entre outros, e entender como tudo isso esta fluindo.
+
+Aqui temos conclusões importantes para esclarecer. Todos esses dados revelam sérias dificuldades relacionadas às entregas, um problema que persiste há bastante tempo e que requer medidas imediatas.
+
+ Agora organizados os dados é possível não apenas evitar insatisfações tanto por parte dos clientes como dos fornecedores, mas também reduzir as perdas financeiras e manter clientes de forma permanente.
+
+Neste exemplo de dashboard, também realizo uma exploração detalhada do faturamento total dos produtos com problemas de entrega, utilizando filtros de clientes, períodos, locais, etc.
+
+Na prática, podemos agregar ainda mais informações e aprofundar a análise dos dados.
+
+Espero que apreciem o conteúdo.
+
+
+
+git init
+git add *
+git commit -m "transporte logistica 1"
+git branch -M main
+git remote add origin https://github.com/LeonardoCigarra/LogisticaTransporteFaturamento.git
+git push -u origin main
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
